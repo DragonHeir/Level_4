@@ -1,13 +1,16 @@
 /BlackAndWhite.class
+/Doctor.class
+/DoctorFullException.class
+/GeneralPractitioner.class
+/Hospital.class
+/HospitalTest.class
 /MyList.class
 /OneToMillion.class
 /Palindromes.class
 /PalindromesTest.class
-/ReverseWord.class
-/Hospital.class
-/HospitalTest.class
 /Patient.class
-/GeneralPractitioner.class
+/ReverseWord.class
 /Surgeon.class
-/Doctor.class
-/DoctorFullException.class
+/Hospital Group/
+/Hospital/
+/HospitalExercise/

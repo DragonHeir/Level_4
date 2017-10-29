@@ -23,7 +23,7 @@ public class MyList<t> {
 		list = (t[]) new Object[0];
 	}
 
-	void add(t i) {		
+	void add(t i) {
 		t[] newList = (t[]) new Object[size + 1];
 		for (int j = 0; j < list.length; j++) {
 			newList[j] = list[j];
@@ -33,7 +33,7 @@ public class MyList<t> {
 		list = newList;
 	}
 
-	t get(int i) throws Exception{
+	t get(int i) throws Exception {
 		if (i > size - 1) {
 			throw new Exception("Number is not part of the Array!");
 		}

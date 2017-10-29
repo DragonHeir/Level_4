@@ -1,3 +1,4 @@
+package HospitalExercise;
 
 public class GeneralPractitioner extends Doctor {
 	public boolean makesHouseCalls() {

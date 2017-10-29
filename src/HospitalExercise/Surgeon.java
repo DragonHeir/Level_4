@@ -1,3 +1,5 @@
+package HospitalExercise;
+
 
 public class Surgeon extends Doctor {
 	public boolean performsSurgery() {
